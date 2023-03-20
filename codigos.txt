@@ -1,0 +1,32 @@
+su - entrar no modo root
+rm - remove os ficheiros
+cd (nome da diretoria) - entrar na dir ecd .. em ficheiros
+touch - criar ficheiros
+cat - ler
+mkdir - criar diretoria
+ls -l - ler diretoria
+cd .. - fecha a diretoria
+cd ../(nome da diretoria) - fecha uma diretoria e abre outra
+-r copia de uma dir para outra
+rmdir - remove uma diretoria
+ln (nome do ficheiro) ../nome da dir - enviar de uma dir para outra
+cp -r * ../(nome do local para enviar) - copiar o que está dentro para outro local
+^ - Ctrl
+mv - muda o nome do ficheiro ou diretoria
+nano - abre o ficheiro e consegues assim edita-lo
+cp ../file - copia o ficheiro file da diretoria acima para a diretoria atual
+cp - copia um file
+chmod 777 - dá as permissões necessarias a toda a gente
+:q! - força a saída de um ficheiro
+export EDITOR=nano - para modificar o ficheiro com o nano
+lsblk - podemos ver o sdb, sdc, sdd, sde e sdf
+
+tail -1 /etc/passwd - ver os users
+useradd - adiciona user
+userdel - apaga o user
+usermod - modifica o user
+useradd -u 1010 -s /bin/bash -d /home/"nome_user" "nome_user" - Criar utilizador
+passwd "nome_user" - definir uma password
+
+userdel -r xpto - Apagar utilizador (Opção -r para apagar automaticamente directoria)
+usermod –s /bin/csh ppinto - Mudar informações do utilizador (Mudar por exemplo a shell para csh)
