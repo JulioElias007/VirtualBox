@@ -7,6 +7,7 @@ mkdir - criar diretoria
 ls -l - ler diretoria
 cd .. - fecha a diretoria
 cd ../(nome da diretoria) - fecha uma diretoria e abre outra
+cd ../../(nome da diretoria) - fecha duas diretorias e abre outra (colocar ../ conforme a quantidade de dir)
 -r copia de uma dir para outra
 rmdir - remove uma diretoria
 ln (nome do ficheiro) ../nome da dir - enviar de uma dir para outra
