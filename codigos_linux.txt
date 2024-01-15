@@ -14,7 +14,7 @@ ln (nome do ficheiro) ../nome da dir - enviar de uma dir para outra
 cp -r * ../(nome do local para enviar) - copiar o que está dentro para outro local
 ^ - Ctrl
 mv - muda o nome do ficheiro ou diretoria
-nano - abre o ficheiro e consegues assim edita-lo
+nano - abre o ficheiro e consegues assim edita-lo (também podemos utilizar o "vi")
 cp ../file - copia o ficheiro file da diretoria acima para a diretoria atual
 cp - copia um file
 chmod 777 - dá as permissões necessarias a toda a gente
